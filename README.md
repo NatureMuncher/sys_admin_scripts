@@ -9,3 +9,6 @@ Collection of scripts to manage Linux (and maybe Windows) servers (and maybe wor
 
 # Defense in Depth
 1. ddos_deflate
+
+
+Credit - this github format was inspired by https://github.com/ruanyf/simple-bash-scripts
