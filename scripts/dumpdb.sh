@@ -42,7 +42,7 @@ echo "Starting '${0}' ${ARGS}"
 #################################
 
 # Set variables
-DBDUMP_HOME_FOLDER=/home/geoff    # Change this to set where your db dump control files (and by default, the dumps as well) will live 
+DBDUMP_HOME_FOLDER=/home/user    # Change this to set where your db dump control files (and by default, the dumps as well) will live 
 MINIMUM_AGE_IN_MINUTES=540          # 540 mins = nine hours
 EXTENDED_INSERT_MIN_SIZE=200        # in Megabytes before compression
 
